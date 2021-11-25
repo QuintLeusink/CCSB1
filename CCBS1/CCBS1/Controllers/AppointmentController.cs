@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
-namespace CCSB.Controllers
+namespace CCBS1.Controllers
 {
 
     [Authorize]
