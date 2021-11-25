@@ -392,3 +392,15 @@ D:\Users\psnqu\OneDrive\Bureaublad\CCBS1\CCBS1\obj\Debug\net5.0\CCBS1.dll
 D:\Users\psnqu\OneDrive\Bureaublad\CCBS1\CCBS1\obj\Debug\net5.0\ref\CCBS1.dll
 D:\Users\psnqu\OneDrive\Bureaublad\CCBS1\CCBS1\obj\Debug\net5.0\CCBS1.pdb
 D:\Users\psnqu\OneDrive\Bureaublad\CCBS1\CCBS1\obj\Debug\net5.0\CCBS1.genruntimeconfig.cache
+D:\Data ROC\Project CCSB\CCSB1\CCBS1\CCBS1\obj\Debug\net5.0\CCBS1.csproj.AssemblyReference.cache
+D:\Data ROC\Project CCSB\CCSB1\CCBS1\CCBS1\obj\Debug\net5.0\CCBS1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data ROC\Project CCSB\CCSB1\CCBS1\CCBS1\obj\Debug\net5.0\CCBS1.AssemblyInfoInputs.cache
+D:\Data ROC\Project CCSB\CCSB1\CCBS1\CCBS1\obj\Debug\net5.0\CCBS1.AssemblyInfo.cs
+D:\Data ROC\Project CCSB\CCSB1\CCBS1\CCBS1\obj\Debug\net5.0\CCBS1.csproj.CoreCompileInputs.cache
+D:\Data ROC\Project CCSB\CCSB1\CCBS1\CCBS1\obj\Debug\net5.0\CCBS1.MvcApplicationPartsAssemblyInfo.cs
+D:\Data ROC\Project CCSB\CCSB1\CCBS1\CCBS1\obj\Debug\net5.0\CCBS1.MvcApplicationPartsAssemblyInfo.cache
+D:\Data ROC\Project CCSB\CCSB1\CCBS1\CCBS1\obj\Debug\net5.0\CCBS1.RazorAssemblyInfo.cache
+D:\Data ROC\Project CCSB\CCSB1\CCBS1\CCBS1\obj\Debug\net5.0\CCBS1.RazorAssemblyInfo.cs
+D:\Data ROC\Project CCSB\CCSB1\CCBS1\CCBS1\obj\Debug\net5.0\CCBS1.dll
+D:\Data ROC\Project CCSB\CCSB1\CCBS1\CCBS1\obj\Debug\net5.0\ref\CCBS1.dll
+D:\Data ROC\Project CCSB\CCSB1\CCBS1\CCBS1\obj\Debug\net5.0\CCBS1.pdb

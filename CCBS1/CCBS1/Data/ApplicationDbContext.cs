@@ -12,5 +12,7 @@ namespace CCBS1.Data
             : base(options)
         {
         }
+
+        public object Appointments { get; internal set; }
     }
 }

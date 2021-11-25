@@ -6673,23 +6673,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\psnqu\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Jonas Inan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\psnqu\\OneDrive\\Bureaublad\\CCBS1\\CCBS1\\CCBS1.csproj",
+      "projectUniqueName": "D:\\Data ROC\\Project CCSB\\CCSB1\\CCBS1\\CCBS1\\CCBS1.csproj",
       "projectName": "CCBS1",
-      "projectPath": "D:\\Users\\psnqu\\OneDrive\\Bureaublad\\CCBS1\\CCBS1\\CCBS1.csproj",
-      "packagesPath": "C:\\Users\\psnqu\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\psnqu\\OneDrive\\Bureaublad\\CCBS1\\CCBS1\\obj\\",
+      "projectPath": "D:\\Data ROC\\Project CCSB\\CCSB1\\CCBS1\\CCBS1\\CCBS1.csproj",
+      "packagesPath": "C:\\Users\\Jonas Inan\\.nuget\\packages\\",
+      "outputPath": "D:\\Data ROC\\Project CCSB\\CCSB1\\CCBS1\\CCBS1\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\psnqu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Jonas Inan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
