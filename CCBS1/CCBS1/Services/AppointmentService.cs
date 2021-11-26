@@ -1,12 +1,14 @@
 ﻿using CCBS1.Data;
+using CCBS1.Models;
 using CCBS1.Models.ViewModels;
+using CCBS1.Utility;
 using Microsoft.AspNetCore.Identity.UI.Services;
 using System;
 using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
 using System.Threading.Tasks;
-
+using ApplicationDbContext = CCBS1.Data.ApplicationDbContext;
 
 namespace CCBS1.Services
 {
@@ -101,4 +103,5 @@ namespace CCBS1.Services
                     UserName = _db.Users.Where(u => u.Id == c.ApplicationUserId).Select(u => u.FullName).FirstOrDefault(),
                 }).SingleOrDefault();
         }
+    }
 }
